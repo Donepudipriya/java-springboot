@@ -2,7 +2,7 @@ pipeline {
     // where or who
     agent any
     
-    // collection of stages
+    //collection of stages
     stages{
         stage('Test'){
             steps{
