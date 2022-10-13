@@ -26,7 +26,7 @@ pipeline {
 
         stage('Deploy to Prod') {
             steps {
-                echo 'Deploy to Prod'
+                echo 'Deploy to prod'
             }
         }
     }
